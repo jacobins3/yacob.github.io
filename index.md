@@ -20,35 +20,40 @@ Dr. Yacob T. Tesfaldet is an environmental data scientist with 7+ years of exper
 
 ## Projects
 
-### [AI-Powered Ethiopian Wolf Habitat Monitoring](https://connectedconservation.foundation/ecosystem-insights-hub/community-coexistence-for-endangered-ethiopian-wolves-in-the-bale-mountans-national-park-with-ai-driven-settlement-mapping/)
-<img src="https://jacobins3.github.io/yacobtt/images/bmnp.jpg" alt="Ethiopian Wolf Project" width="350">
+### [Graph Neural Networks for Heatwave Early Warning in Arid Regions](https://doi.org/10.1016/j.uclim.2026.102910)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Heatwave GNN placeholder" width="350">
 
-Using high-resolution satellite imagery and deep learning to monitor Ethiopian wolf habitat in Bale Mountains National Park, supporting biodiversity conservation and community engagement. *(2024–2025, CCF & AF)*
+Built a graph neural network for short-term heatwave forecasting in the data-sparse UAE, improving early-warning lead time for climate-health risk. *(2025–Present, Emirates Aviation University)*
 
-### Spatiotemporal Variation and Health Risks of Particulate Matter in Bangkok
-<img src="https://jacobins3.github.io/yacobtt/images/pra.png" alt="PM Study" width="350">
+### [AI-Powered Ethiopian Wolf Habitat Monitoring](https://doi.org/10.1007/s41748-026-01066-x)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Ethiopian Wolf project placeholder" width="350">
 
-Mapped PM2.5/PM10 distribution and trace-element exposure risks across Bangkok, and evaluated air pollution policy using a SWOT framework. *(2020–2024, Chulalongkorn University)*
+Applied machine learning to satellite imagery to detect land encroachment threatening Ethiopian wolf habitat in Bale Mountains National Park. *(2024–2025, Connected Conservation Foundation & Airbus Foundation — Principal Investigator)*
 
-### Integrated Urban Analytics and Community Resilience
-<img src="https://jacobins3.github.io/yacobtt/images/alain.png" alt="Urban Analytics" width="350">
+### [Probabilistic Health Risk Assessment of Urban Air Pollution in Bangkok](https://doi.org/10.1080/09603123.2025.2508891)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Bangkok air pollution placeholder" width="350">
 
-Combined remote sensing and machine learning to map urban quality of life, estimate population density, and assess community resources for disaster response in Al Ain, UAE. *(2022–2023, UAE University)*
+Quantified respiratory and cardiovascular risk from ambient PM2.5 in Bangkok using scenario-based probabilistic modelling, informing air-quality policy. *(2020–2024, Chulalongkorn University — Principal Investigator)*
 
-### Assessing Threats to Historical Oases and Urban Sustainability
-<img src="https://jacobins3.github.io/yacobtt/images/oasis.png" alt="Oasis Project" width="350">
+### [Mapping Urban Quality of Life from Satellite Imagery](https://doi.org/10.3390/ijgi11090458)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Urban quality of life placeholder" width="350">
 
-Integrated building-age classification, land use change (1972–2022), and flood hazard mapping to inform conservation of Al Ain's historical oases. *(2022–2023, UAE University)*
+Combined remote sensing and machine learning to extract urban quality-of-life indicators and estimate population density in Al Ain, UAE. *(2022–2023, UAE University)*
 
-### COVID-19, Face Mask, Health, and Environment Nexus
-<img src="https://jacobins3.github.io/yacobtt/images/facem.jpg" alt="Face Mask Study" width="350">
+### [Flood-Hazard Mapping and Oasis Preservation in Al Ain](https://doi.org/10.3390/w16172408)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Oasis flood mapping placeholder" width="350">
 
-Analyzed the environmental and public health trade-offs of mask use during COVID-19, including disposal impacts and policy recommendations. *(2021–2023)*
+Integrated building-age classification with flood-hazard mapping and land-use change analysis (1972–2022) to guide conservation of Al Ain's historical oases. *(2022–2023, UAE University)*
 
-### Groundwater Recharge Estimation in Thepkasattri Watershed
-<img src="https://jacobins3.github.io/yacobtt/images/hydrology.png" alt="Groundwater Study" width="350">
+### [Mapping Open Biomass Burning Practices in East Africa](https://doi.org/10.1016/j.gloplacha.2026.105358)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Biomass burning placeholder" width="350">
 
-Combined chloride mass balance, water table fluctuation, and resistivity tomography to map seasonal groundwater recharge dynamics. *(2018–2019, TICA)*
+Used data-mining on a decade of satellite fire data (2013–2022) to uncover open biomass-burning patterns across East Africa for evidence-based policy. *(2026, collaborative research)*
+
+### [Face Masks in the Environment: Risk and Policy Implications](https://doi.org/10.1016/j.scitotenv.2021.152859)
+<img src="https://placehold.co/600x400?text=Figure+Coming+Soon" alt="Face mask study placeholder" width="350">
+
+Assessed the environmental fate and public-health trade-offs of face-mask waste during COVID-19 using the DPSIR policy framework. *(2021–2023, Chulalongkorn University — Principal Investigator)*
 
 ---
 
