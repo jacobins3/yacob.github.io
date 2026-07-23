@@ -10,7 +10,7 @@ title: Yacob T. Tesfaldet
 
 ## Background
 
-Dr. Yacob T. Tesfaldet is an environmental data scientist with 7+ years of experience spanning academia and applied research. He specializes in geospatial data science, GeoAI, and computer vision — combining GIS, remote sensing, and spatiotemporal modeling to track contaminants, hazards, and climate risks for public health, urban sustainability, and policy impact. He also serves as a Scientific Editor for Elsevier's *Next Research* journal.
+Dr. Yacob T. Tesfaldet is an environmental data scientist with 7+ years of experience spanning academia and applied research. He specializes in geospatial data science, GeoAI, and computer vision. He combines GIS, remote sensing, and spatiotemporal modeling to track environmental changes, and climate risks for public health, urban sustainability, and policy impact. He also serves as a Scientific Editor for Elsevier's *Next Research* journal.
 
 **Research Interests:** Geospatial Data Science · Remote Sensing & GIS · GeoAI & Explainable AI · Climate Change · Spatiotemporal Environmental & Health Modelling
 
