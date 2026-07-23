@@ -46,14 +46,13 @@ Combined remote sensing and machine learning to extract urban quality-of-life in
 Integrated building-age classification with flood-hazard mapping and land-use change analysis (1972–2022) to guide conservation of Al Ain's historical oases. *(2022–2023, UAE University)*
 
 ### [Mapping Open Biomass Burning Practices in East Africa](https://doi.org/10.1016/j.gloplacha.2026.105358)
-<img src="img/GA_east_africa_biomass.tif" alt="Biomass burning placeholder" width="350">
-<img src="img/GA_east_africa_biomass.tif" alt="Biomass burning placeholder" width="350">
-<img src="img/GA_east_africa_biomass.tif" alt="Biomass burning placeholder" width="350">
+<img src="img/GA_bomass.png" alt="First image" width="450"> &nbsp;&nbsp;&nbsp; <img src="img/GA_biomass3.jpg" alt="Second image" width="450">
+<img src="img/GA_biomass2.jpg" alt="Biomass burning placeholder" width="550">
 
 Used data-mining on a decade of satellite fire data (2013–2022) to uncover open biomass-burning patterns across East Africa for evidence-based policy. *(2026, collaborative research)*
 
 ### [Face Masks in the Environment: Risk and Policy Implications](https://doi.org/10.1016/j.scitotenv.2021.152859)
-<img src="img/GA_face_mask.jpg" alt="Face mask study placeholder" width="350">
+<img src="img/GA_face_mask.jpg" alt="Face mask study placeholder" width="450">
 
 Assessed the environmental fate and public-health trade-offs of face-mask waste during COVID-19 using the DPSIR policy framework. *(2021–2023, Chulalongkorn University — Principal Investigator)*
 
